@@ -10,8 +10,10 @@ public class Formatted {
         //flag and width
         int a=10;
         int b=-10;
+        float c=123.45f;
         System.out.printf("%05d\n ",a);
         System.out.printf("%+5d\n ",b);// the minus is replaced by () when the number is negatif.
+        System.out.printf("%6.2f\n",c);
     }
     
 }
