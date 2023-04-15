@@ -12,13 +12,14 @@ public class Website {
         String typeW= url.substring(lindex+1);
         System.out.println(protocol);
         System.out.println(typeW);
+        // Protcols
         if(protocol.equals("http"))
             System.out.println("Hypertext Transfer Protocol");
         else if(protocol.equals("https"))
             System.out.println("Hypertext Transfer Protocol Secure");
         else if(protocol.equals("ftp"))
             System.out.println("File Transfer Protocol");
-        
+        // Type website
         if(typeW.equals("com"))
             System.out.println("Commercial");
         else if(typeW.equals("org"))
