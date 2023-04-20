@@ -26,6 +26,15 @@ public class ChalengePatterns1 {
             }
             System.out.println("");
         }
+        System.out.println("Chalenge Pattern 4");
+        int cpt=0;
+        for( int i=1;i<=5;i++){
+            for(int j=1; j<=5; j++){
+                cpt++;
+                System.out.format("%02d ",cpt); 
+            }
+            System.out.println(" ");
+        }
     }
     
 }
