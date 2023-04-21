@@ -16,7 +16,7 @@ public class ArrayPractice {
         for(int i=0; i<A.length;i++){
             System.out.print(A[i]+ " ");
         }
-        /* 
+        
         System.out.println(" Veuillez saisr l'éléments à rechercher");
         int elt=src.nextInt();
         for(int i=0; i<A.length;i++){
@@ -28,15 +28,19 @@ public class ArrayPractice {
         if(find!=0)
             System.out.println("L'élément se trouve à l'index: "+find);
         else
-            System.out.println("L'élément se trouve pas dans le tableau");*/
+            System.out.println("L'élément se trouve pas dans le tableau");
         
         System.out.println("Finding Maximum Element !!! \n");
-        int max=A[0];
+        int max1,max;
+        max1=max=A[0];
         for(int i=0; i<A.length;i++){
-            if(max<A[i])
+            if(max<A[i]){
+                max1=max;
                 max=A[i];
+            }else if(max1<A[i])
+                max1=A[i];
         }
-        System.out.println("The maximum element is : "+max);
+        System.out.println("The maximum element is : "+max+" and second maximum element is: "+max1);
         
         
         
