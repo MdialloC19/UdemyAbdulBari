@@ -26,6 +26,22 @@ public class ArrayPractice1 {
             System.out.print(A[i]+ " ");
         }
 
+        System.out.println("Insersion in an array!!!");
+        int B[]=new int[12];
+  
+        for(int i=0; i<A.length;i++){
+            B[i]=A[i];
+        }
+        int n=25;// we want insert this number at the index 2
+        for(int i=A.length-1;i<=2;i--){
+            B[i+1]=B[i];
+        }
+        B[2]=n;
+        System.out.print(" B[]= ");
+        for(int i=0; i<B.length;i++){
+            System.out.print(B[i]+ " ");
+        }
+        System.out.println(" ");
 
     }
     
