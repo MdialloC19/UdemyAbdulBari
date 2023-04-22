@@ -43,6 +43,18 @@ public class ArrayPractice1 {
         }
         System.out.println(" ");
 
+        System.out.println("Deleting in an array!!!");
+        for(int i=1; i<B.length-1;i++){
+            B[i]=B[i+1];
+        }
+
+        System.out.print(" B[]= ");
+        for(int i=0; i<B.length;i++){
+            System.out.print(B[i]+ " ");
+        }
+        System.out.println(" ");
+
+
     }
     
 }
