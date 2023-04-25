@@ -13,7 +13,6 @@ public class ArrayPractice1 {
             A[i]=A[i+1];
             if(i==A.length-2)
                 A[i+1]=temp;
-           
         }*/
         //this also work
         for(int i=1;i<A.length;i++){
@@ -53,8 +52,6 @@ public class ArrayPractice1 {
             System.out.print(B[i]+ " ");
         }
         System.out.println(" ");
-
-
     }
     
 }
