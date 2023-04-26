@@ -32,7 +32,7 @@ public class ArrayPractice2 {
          */
 
         
-         //Incresing Size of Array
+         //Increasing Size of Array
         System.out.println(" ");
         int A[]={8,5,12,34,10,11,2,4,5,9,0};
         int D[]=new int[2*A.length];
@@ -40,6 +40,7 @@ public class ArrayPractice2 {
             D[i]=A[i];
         }
         A=D;
+        D=null;
         for(int x:A){
             System.out.printf("%s ",x);
         }
