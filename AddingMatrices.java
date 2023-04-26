@@ -22,9 +22,10 @@ public class AddingMatrices {
         // Multiplying 2 Matrices
         System.out.println("Multiplying 2 Matrices");
         for(int i=0;i<B.length;i++){
-
             for(int j=0;j<B[i].length;j++){
-                D[i][j]=A[i][j]*B[i][j];
+                D[i][j]=0;
+                for(int k=0;k<B.length;k++)
+                    D[i][j]=D[i][j]+A[i][k]*B[k][j];
             }
         }
 
@@ -34,5 +35,6 @@ public class AddingMatrices {
             }
             System.out.println("");
         }
+
     }
 }
