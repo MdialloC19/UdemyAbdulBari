@@ -17,13 +17,22 @@ public class ArrayPractice2 {
         }
         //Reversee copying array
         System.out.println(" ");
-        int j=0;
-        for(j=L-1;j>=0;j--){
+       
+        for(int j=L-1;j>=0;j--){
             C[L-1-j]=T[j];
         }
         for(int x:C){
             System.out.printf("%s ",x);
         }
+        //We can have the same result by doing this 
+        /*
+         for(int i=L-1,j=0;i>=0;i--,j++){
+            C[j]=T[i];
+         }
+         */
+        //Incresing Size of Array
+
+
 
 
     }
