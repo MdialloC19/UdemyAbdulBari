@@ -30,7 +30,20 @@ public class ArrayPractice2 {
             C[j]=T[i];
          }
          */
-        //Incresing Size of Array
+
+        
+         //Incresing Size of Array
+        System.out.println(" ");
+        int A[]={8,5,12,34,10,11,2,4,5,9,0};
+        int D[]=new int[2*A.length];
+        for (int i=0;i<A.length;i++){
+            D[i]=A[i];
+        }
+        A=D;
+        for(int x:A){
+            System.out.printf("%s ",x);
+        }
+
 
 
 
