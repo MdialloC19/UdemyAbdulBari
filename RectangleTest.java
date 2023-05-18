@@ -2,7 +2,20 @@ class Rectangle
 {
     private double length;
     private double breadth;
+
+    public Rectangle(){
+        length=1;
+        breadth=1;
+    }
     
+    public Rectangle(double l, double b){
+        setLength(l);
+        setBreadth(b);
+    }
+
+    public Rectangle(double s){
+        length=breadth=s;
+    }
     public double getLength()
     {
         return length;
