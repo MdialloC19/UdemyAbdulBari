@@ -16,21 +16,29 @@ class Circle{
         return perimeter();
     }
 }
+
+class Cylinder extends Circle{
+    public double height;
+
+    public double volume(){
+        return are()*height;
+    }
+}
 public class Circle1{
     public static void main(String args[]){
 
         Circle c1=new Circle();
-        Circle c2=new Circle();
-        c1.radius=7;
-        c2.radius=5;
+        Cylinder c2=new Cylinder();
+        c2.height=10;
+        c2.radius=7;
 
-        System.out.println("Area :"+c1.are());
-        System.out.println(c1.perimeter());
-        System.out.println(c1.circumference());
+        // System.out.println("Area :"+c1.are());
+        // System.out.println(c1.perimeter());
+        // System.out.println(c1.circumference());
 
-        System.out.println("Area"+c2.are());
+        System.out.println("Area "+c2.are());
         System.out.println(c2.perimeter());
-        System.out.println(c2.circumference());
+        System.out.println(c2.volume());
 
 
     }
