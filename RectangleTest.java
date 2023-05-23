@@ -1,19 +1,19 @@
-class Rectangle
+class Rectangle1
 {
     private double length;
     private double breadth;
 
-    public Rectangle(){
+    public Rectangle1(){
         length=1;
         breadth=1;
     }
     
-    public Rectangle(double l, double b){
+    public Rectangle1(double l, double b){
         setLength(l);
         setBreadth(b);
     }
 
-    public Rectangle(double s){
+    public Rectangle1(double s){
         length=breadth=s;
     }
     public double getLength()
