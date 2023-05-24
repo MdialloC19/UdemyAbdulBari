@@ -1,10 +1,10 @@
-class Super {
+class Super3 {
     public void display(){
         System.out.println("Super Class Display");
     }
     
 }
-class Sub extends Super{
+class Sub3 extends Super3{
     @Override
     public void display(){
         System.out.println("Sub Classs Display Hello Welcome ");
@@ -39,7 +39,7 @@ class SmartTV extends TV{
 
 public class Overriding {
     public static void main(String[] args) {
-        Super sup=new Sub();
+        Super3 sup=new Sub3();
         sup.display();
 
         // Sub sb=new Sub();
