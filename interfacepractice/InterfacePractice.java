@@ -1,30 +1,35 @@
 package interfacepractice;
-interface Test{
-    void meth1();
-    void meth2();
+
+interface Test
+{
+    final static int X=10;
+    public abstract void meth1();
+    public abstract void meth2();
+    default void meth3()
+    {
+        System.out.println("Meth3 of Test");
+    }
 }
 
-class My implements Test{
-    public void meth1(){
-        System.out.println("Meth1 of class My");
-    }
-    public void meth2(){
-        System.out.println("Meth2 of class My");
-    }
-    public void meth3(){
-        System.out.println("Meth3 of class My");
-    }
-
-
-
+interface Test2 extends Test
+{
+    void meth4();
 }
-public class InterfacePractice {
-    public static void main(String[] args) {
+
+class My implements Test2
+{
+    public void meth1(){System.out.println("Meth1");}
+    public void meth2(){System.out.println("Meth2");}
+    public void meth4(){System.out.println("Meth4");}
+}
+public class InterfacePractice 
+{
+    public static void main(String[] args) 
+    {
+        System.out.println(Test.X);
+        // Test.meth3();
+        My M=new My();
+        M.meth3();
         
-        Test t=new My();
-        t.meth1();
-        t.meth2();
-
     }
-    
 }
