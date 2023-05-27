@@ -25,7 +25,7 @@ class Super1
     }
 }
 
-class Sub1 extends Super    
+class Sub1 extends Super1   
 {
     //@Override if public
     public void display()
@@ -39,7 +39,7 @@ public class OverrideRules {
 
     public static void main(String[] args) {
         
-        Sub s=new Sub();
+        Sub1 s=new Sub1();
         
     }
     
