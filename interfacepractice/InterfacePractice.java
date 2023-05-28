@@ -5,9 +5,13 @@ interface Test
     final static int X=10;
     public abstract void meth1();
     public abstract void meth2();
-    default void meth3()
-    {
+    private void meth3(){
         System.out.println("Meth3 of Test");
+       
+    }
+    default void meth5()
+    {
+        meth3();
     }
 }
 
@@ -29,7 +33,7 @@ public class InterfacePractice
         System.out.println(Test.X);
         // Test.meth3();
         My M=new My();
-        M.meth3();
+        M.meth5();
         
     }
 }
