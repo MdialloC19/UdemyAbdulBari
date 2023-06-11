@@ -1,0 +1,413 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddingMatrices",
+            "request": "launch",
+            "mainClass": "AddingMatrices",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Area1",
+            "request": "launch",
+            "mainClass": "Area1",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Arithmetic",
+            "request": "launch",
+            "mainClass": "Arithmetic",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "ArrayPractice",
+            "request": "launch",
+            "mainClass": "ArrayPractice",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "ArrayPractice1",
+            "request": "launch",
+            "mainClass": "ArrayPractice1",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "ArrayPractice2",
+            "request": "launch",
+            "mainClass": "ArrayPractice2",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Bitewise",
+            "request": "launch",
+            "mainClass": "Bitewise",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "ChalengePatterns1",
+            "request": "launch",
+            "mainClass": "ChalengePatterns1",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "ChallengePattern2",
+            "request": "launch",
+            "mainClass": "ChallengePattern2",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "ChallengePattern3",
+            "request": "launch",
+            "mainClass": "ChallengePattern3",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Circle1",
+            "request": "launch",
+            "mainClass": "Circle1",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "DArray",
+            "request": "launch",
+            "mainClass": "DArray",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "DataSizeRange",
+            "request": "launch",
+            "mainClass": "DataSizeRange",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "DataTypeDetails",
+            "request": "launch",
+            "mainClass": "DataTypeDetails",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "DynamicDispatch",
+            "request": "launch",
+            "mainClass": "DynamicDispatch",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Formatted",
+            "request": "launch",
+            "mainClass": "Formatted",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "InheritConst",
+            "request": "launch",
+            "mainClass": "InheritConst",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "KeyRead",
+            "request": "launch",
+            "mainClass": "KeyRead",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Literals",
+            "request": "launch",
+            "mainClass": "Literals",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "MethodPratice",
+            "request": "launch",
+            "mainClass": "MethodPratice",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "MethodPratice1",
+            "request": "launch",
+            "mainClass": "MethodPratice1",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "MyFirst",
+            "request": "launch",
+            "mainClass": "MyFirst",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Overloading",
+            "request": "launch",
+            "mainClass": "Overloading",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "OverrideRules",
+            "request": "launch",
+            "mainClass": "OverrideRules",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Overriding",
+            "request": "launch",
+            "mainClass": "Overriding",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "OverridingExample",
+            "request": "launch",
+            "mainClass": "OverridingExample",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Printing",
+            "request": "launch",
+            "mainClass": "Printing",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "RectangleTest",
+            "request": "launch",
+            "mainClass": "RectangleTest",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateItems",
+            "request": "launch",
+            "mainClass": "RemoveDuplicateItems",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Roots",
+            "request": "launch",
+            "mainClass": "Roots",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "SCSwitch2",
+            "request": "launch",
+            "mainClass": "SCSwitch2",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "SortingArray",
+            "request": "launch",
+            "mainClass": "SortingArray",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "StringChallenge",
+            "request": "launch",
+            "mainClass": "StringChallenge",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "StringChallenge1",
+            "request": "launch",
+            "mainClass": "StringChallenge1",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "StringChallenge2",
+            "request": "launch",
+            "mainClass": "StringChallenge2",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "StringMethods",
+            "request": "launch",
+            "mainClass": "StringMethods",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "StringPattern",
+            "request": "launch",
+            "mainClass": "StringPattern",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "StringPractice",
+            "request": "launch",
+            "mainClass": "StringPractice",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "StringRegexb",
+            "request": "launch",
+            "mainClass": "StringRegexb",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "StudentTest",
+            "request": "launch",
+            "mainClass": "StudentTest",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Students",
+            "request": "launch",
+            "mainClass": "Students",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Systeme",
+            "request": "launch",
+            "mainClass": "Systeme",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "VariableArguments",
+            "request": "launch",
+            "mainClass": "VariableArguments",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Website",
+            "request": "launch",
+            "mainClass": "Website",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Abstract",
+            "request": "launch",
+            "mainClass": "abstract1.Abstract",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "AbstractExample",
+            "request": "launch",
+            "mainClass": "abstractexample.AbstractExample",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "CallbackChallenge",
+            "request": "launch",
+            "mainClass": "callbackchallenge.CallbackChallenge",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceExample",
+            "request": "launch",
+            "mainClass": "interfaceexample.InterfaceExample",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "InterfacePractice",
+            "request": "launch",
+            "mainClass": "interfacepractice.InterfacePractice",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "LocalInner",
+            "request": "launch",
+            "mainClass": "localinner.LocalInner",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "NestedInner",
+            "request": "launch",
+            "mainClass": "nestedinner.NestedInner",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "StaticPractice",
+            "request": "launch",
+            "mainClass": "staticpackage.StaticPractice",
+            "projectName": "UdemyAbdulBari_1593c99"
+        }
+    ]
+}
