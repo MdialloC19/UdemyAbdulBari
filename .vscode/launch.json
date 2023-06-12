@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudentRoll",
+            "request": "launch",
+            "mainClass": "student.StudentRoll",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "StaticBlocks",
             "request": "launch",
             "mainClass": "staticpractice1.StaticBlocks",
