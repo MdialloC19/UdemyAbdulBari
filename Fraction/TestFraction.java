@@ -11,10 +11,10 @@ public class TestFraction {
         fraction2.afficher();  
 
     // Inversion de fraction1
-    fraction1.inverser();
+    fraction1.inverser();     
     fraction1.afficher();  
 
-    // Somme de fraction1 et fraction2
+    // Somme de    et fraction2
     Fraction somme = fraction1.somme(fraction2);
     somme.afficher();  
 

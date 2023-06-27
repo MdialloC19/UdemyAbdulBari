@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "checkedunchecked",
+            "request": "launch",
+            "mainClass": "checkedunchecked.checkedunchecked",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "NestedCatch",
+            "request": "launch",
+            "mainClass": "nestedcatach.NestedCatch",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "TestException",
+            "request": "launch",
+            "mainClass": "exceptiondemo.TestException",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "TestException",
+            "request": "launch",
+            "mainClass": "exception.TestException",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "TestFraction",
+            "request": "launch",
+            "mainClass": "Fraction.TestFraction",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "open.Test",
