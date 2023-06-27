@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Finalydemo",
+            "request": "launch",
+            "mainClass": "finallydemo.Finalydemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "ThrowThrowsDemo",
             "request": "launch",
             "mainClass": "throwthrowsdemo.ThrowThrowsDemo",
