@@ -10,14 +10,12 @@ public class RessourceDemo {
     static void Divide() throws Exception{
         
         try(FileInputStream fi=new FileInputStream("./ressourceDemo/text.txt");Scanner sc=new Scanner(fi);)
-        {
-
-            
-             int a=sc.nextInt();
-             int b=sc.nextInt();
-             int c=sc.nextInt();
-             int d=sc.nextInt();
-             System.out.println(a/c);
+        {            
+            int a=sc.nextInt();
+            int b=sc.nextInt();
+            int c=sc.nextInt();
+            int d=sc.nextInt();
+            System.out.println(a/c);
         }
         // finally{
 
