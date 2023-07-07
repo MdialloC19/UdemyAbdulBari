@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Test",
             "request": "launch",
+            "mainClass": "exceptionchallenge.Test",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
             "mainClass": "collection.Test",
             "projectName": "UdemyAbdulBari_1593c99"
         },
