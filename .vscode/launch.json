@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreadClassDemo",
+            "request": "launch",
+            "mainClass": "tutorialpoint.ThreadClassDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "ThreadTest2",
+            "request": "launch",
+            "mainClass": "threadtest.ThreadTest2",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "ThreadTest1",
             "request": "launch",
             "mainClass": "threadtest.ThreadTest1",
