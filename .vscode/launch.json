@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreadTest1",
+            "request": "launch",
+            "mainClass": "threadtest.ThreadTest1",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "JeuBulle",
+            "request": "launch",
+            "mainClass": "JeuBulle",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "ThreadTest",
             "request": "launch",
             "mainClass": "threadtest.ThreadTest",
