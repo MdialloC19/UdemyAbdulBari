@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "patternforkjoin.Main",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "threadopen.Test",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "threadopen.Main",
             "projectName": "UdemyAbdulBari_1593c99"
         },
