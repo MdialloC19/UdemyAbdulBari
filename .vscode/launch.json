@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "threadopen.Main",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "ThreadClassDemo",
             "request": "launch",
             "mainClass": "tutorialpoint.ThreadClassDemo",
