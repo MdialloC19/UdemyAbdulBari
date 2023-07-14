@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestThread",
+            "request": "launch",
+            "mainClass": "coursenligne.TestThread",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "CalculSuite",
             "request": "launch",
             "mainClass": "patternforkjoin.CalculSuite",
