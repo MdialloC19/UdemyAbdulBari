@@ -8,8 +8,8 @@ public class Test {
 
         MyThread2 t2=new MyThread2(d);
 
-        t1.start();
         t2.start();
+        t1.start();
 
     }
     
