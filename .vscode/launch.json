@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Monitor.Test",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "TestThread",
             "request": "launch",
             "mainClass": "coursenligne.TestThread",
