@@ -11,15 +11,14 @@ public class Customer extends Thread{
         this.amount=amount;
         this.atm=atm;
     }
-
+    
     public void useAtm(){
         atm.checkBalance(this.name);
         atm.withdraw(this.name,this.amount);
-    }
+    }    
     public void run(){
-       
-            
-            useAtm();
+         
+       useAtm();
       
     }
     
