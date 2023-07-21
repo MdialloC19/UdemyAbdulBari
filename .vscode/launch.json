@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Test",
             "request": "launch",
+            "mainClass": "Monitor.challenge.Test",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
             "mainClass": "Monitor.prodcons.Test",
             "projectName": "UdemyAbdulBari_1593c99"
         },
