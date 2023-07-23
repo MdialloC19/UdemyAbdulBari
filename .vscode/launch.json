@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LangDemo",
+            "request": "launch",
+            "mainClass": "langdemo.LangDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "Monitor.challenge.Test",
