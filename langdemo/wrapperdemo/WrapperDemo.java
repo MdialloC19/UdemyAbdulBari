@@ -32,6 +32,17 @@ public class WrapperDemo {
         int m=10;
         Integer n=Integer.valueOf(m); //boxing
         Integer o=m;// autounboxing
+
+        int m1=15;
+        Integer m2=Integer.valueOf("125");
+
+        Integer m3=Integer.valueOf("1010",2);
+        Integer m4=Integer.valueOf("A7",16);
+        Integer m5=Integer.decode("0xA7");
+
+        Integer m6=Integer.parseInt("123");
+
+        System.out.println(Integer.toBinaryString(40));
     }
     
 }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WrapperDemo",
+            "request": "launch",
+            "mainClass": "langdemo.wrapperdemo.WrapperDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "LangDemo",
             "request": "launch",
             "mainClass": "langdemo.LangDemo",
