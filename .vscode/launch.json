@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReflectDemo",
+            "request": "launch",
+            "mainClass": "reflectiondemo.ReflectDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "EnumDemo",
             "request": "launch",
             "mainClass": "enumdemo.EnumDemo",
