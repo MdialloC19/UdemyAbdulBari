@@ -1,7 +1,22 @@
 package annodemo;
 
 import java.util.List;
+import java.lang.annotation.Annotation;
+import java.lang.annotation.Documented;
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Target;
 
+
+
+@interface MyAnno{
+    // Méta data
+    String name() ;
+    String project();
+    String date() default "new date()";
+    String version() default "13";
+    
+}
+@MyAnno(name = "Musa",project="Bank", date="1/2/2020", version = "13" )
 class OldClass{
     public void display(){
         System.out.println("Hello");
@@ -22,6 +37,8 @@ class Child extends Parent{
 
     }
 }
+
+
 
 class My<T>{
     @SafeVarargs
