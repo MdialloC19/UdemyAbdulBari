@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LambdaDemo",
+            "request": "launch",
+            "mainClass": "lambda.LambdaDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "Lambda",
             "request": "launch",
             "mainClass": "lambda.Lambda",
