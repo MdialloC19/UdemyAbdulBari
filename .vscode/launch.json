@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CopyingFiles",
+            "request": "launch",
+            "mainClass": "filemanipulation.CopyingFiles",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "FileExample",
             "request": "launch",
             "mainClass": "filemanipulation.FileExample",
