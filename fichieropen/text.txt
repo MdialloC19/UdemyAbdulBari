@@ -1,2 +1,52 @@
-Salut les amis
-Comment allez-vous ?
+Améliorer la mobilité urbaine à Dakar
+
+
+                                                                            Introduction 
+
+La mobilité urbaine à Dakar implique les déplacements de personnes et de marchandises dans la ville, un sujet complexe intégré par les infrastructures, la technologie, la politique et la culture. Les routes de la ville sont souvent saturées, causant des embouteillages fréquents aux heures de pointe. Les voyageurs sont donc soumis à des ralentissements quotidiens.
+A bord de ces véhicules, on retrouve souvent des automobilistes stressés et qui présentent des signes d’irritabilité. Pour mettre fin à ces bouchons monstres, l’Etat pense et met en place des solutions : TER, échangeurs, autoroutes, etc. Des initiatives privées sont également mise en place. Mais pour le moment, le pari reste encore très loin d’être gagné. Dakar reste l'une des villes les plus congestionnées en Afrique, avec un impact environnemental de plus en plus considérable et un coût annuel de plus de 100 milliards de FCFA pour la ville.
+C’est dans ce contexte que ce présent projet fait l’étude de l’amélioration de la mobilité urbaine à l’une des zones les plus peuplées de Dakar à savoir : Keur Massar. Pour ce faire notre travail sera structuré comme suit :
+    • Communication de la clientèle
+    • Exploitation des ressources
+    • Supervision temporelle
+
+
+
+
+
+I-	Communication de la clientèle
+La ville de Dakar est confrontée à un problème de mobilité croissant en raison des embouteillages fréquents. Pour comprendre les causes de ces embouteillages, des interviews ont été menées auprès de certains conducteurs de véhicules à Dakar. Ainsi, les causes principales identifiées lors de ces interviews sont les suivantes:
+Le nombre élevé de véhicules: Selon les conducteurs interrogés, le nombre croissant de véhicules en circulation à Dakar est l'une des causes majeures des embouteillages dans la ville.
+Centralisation: Une centralisation excessive peut entraîner une saturation de la circulation sur les routes menant au centre-ville, ce qui peut également causer des embouteillages.
+Blocage de routes par les policiers: Les conducteurs ont déclaré que les policiers bloquant les routes pour contrôler la circulation peuvent également causer des embouteillages.
+Routes en mauvais état: Les routes en mauvais état peuvent ralentir la circulation et entraîner des embouteillages.
+Travaux: Les travaux routiers peuvent temporairement bloquer une partie de la route et causer des embouteillages.
+Indiscipline ou la non-respect du code de la route peuvent ralentir la circulation routière  
+Ces causes ont été identifiées lors des différents entretiens avec des conducteurs de véhicules à Dakar et peuvent contribuer à la problématique croissante des embouteillages dans la ville.
+Un habitant de Keur Massar nous a fait part de son témoignage. Il décrit la localité comme étant : « la chine populaire de Dakar vu le nombre de personnes habitant dans cette dernière. La station de Keur Massar est un point de relais (carrefour) entre différentes communes tels que Malika, Jaxaay, Tivaouane peulh ... Puis les marchands ambulants qui font de la route et des trottoirs leur lieu de commerce favorisent les embouteillages. Ensuite, les routes ainsi que le rond-point sont de petite taille comparée aux nombres de véhicules, personnes, charrettes et tant d’autres passagers. Afin de contrer ses problèmes un pont a été mis en place pour augmenter la fluidité de circulation à ce niveau mais malheureusement le sens du pont n’est pas le bon ce qui au contraire ne change rien à la situation. 
+
+II-	Exploitations des ressources
+
+  Dans la ville de Dakar et dans sa région, difficile d’échapper aux embouteillages. Entre 8h et 10h, heure de départ au boulot pour la majorité des travailleurs et à partir de 16h jusqu’à 20h, circuler en véhicule à Dakar devient un vrai cauchemar. Toutefois, certains axes sont plus touchés que d’autres.
+C’est le cas par exemple du rondpoint de Keur Massar, de Cambérène, de Colobane, Centre-ville, Patte d’Oie, Rondpoint Liberté 6, la VDN et de la route de Castors vers Maristes où le trafic est inextricable. Sur ces voies, on peut observer des milliers de voitures, de bus et de mini-cars, agglutinés notamment aux heures de pointe, sur des kilomètres de bouchons.
+
+III-	Supervision en Temps réel
+
+Les villes intelligentes collectent des données à partir de toutes les entrées disponibles - feux de circulation, caméras, appareils intégrés dans les transports publics - puis les analysent à l'aide de l'IA et les partagent via des pools de données ouvertes. Cela permet une surveillance constante des conditions de gestion du trafic, de la planification des itinéraires, de la sécurité publique et des interventions d'urgence.
+Les technologies de la ville intelligente peuvent être intégrées dans l'ensemble de l'infrastructure d'une ville, y compris les routes intelligentes qui surveillent les conditions météorologiques, l'état et l'usure des routes, et partagent des informations avec les conducteurs et les contrôleurs de la circulation. 
+Le stationnement intelligent peut indiquer les places disponibles aux conducteurs, réduisant ainsi le temps passé à chercher une place. 
+Les feux de circulation intelligents peuvent réagir aux conditions de circulation et s'adapter pour réduire la congestion. 
+Des lampadaires intelligents équipés de caméras, de microphones et de capteurs peuvent s'éteindre en l'absence de personne et recueillir des informations sur la circulation, la sécurité publique et la qualité de l'air. 
+Des caméras intelligentes surveillent le trafic et la sécurité publique, alertant automatiquement les systèmes de transport en cas de problème. 
+Les intersections intelligentes peuvent optimiser la circulation des véhicules et des piétons, détecter les dangers et avertir des accidents potentiels, réduisant ainsi les accidents et les blessures. 
+Le système de péage intelligent peut évaluer les péages en fonction de la fluidité du trafic, mettre en œuvre une tarification spécifique à la congestion ou des péages au kilomètre et percevoir les redevances par voie électronique. 
+Les transports publics intelligents peuvent compter les passagers, suivre les mouvements des véhicules et partager automatiquement leur statut. 
+Les parcs intelligents, y compris les véhicules de sécurité publique et les camions de pompiers ainsi que les camions de livraison privés, les taxis et les trains, partagent leur position, surveillent leurs conducteurs et écoutent leurs moteurs, freins et roues pour détecter les signes d'usure. 
+Pour résoudre les problèmes de mobilité à Dakar, les solutions incluent la création d'une application de planification de voyage, de communication et de paiement électronique qui permet aux utilisateurs de planifier leur voyage en fonction des conditions de circulation, des options de transport disponibles et des coûts. L'application disposerait également d'un SIG (Système d'information géographique) qui suit les habitudes de déplacement des utilisateurs et les itinéraires optimaux pendant une période et une destination donnée. 
+L'application permettrait aux opérateurs de transport de surveiller les bus et les routes en temps réel via le SIG, en s'assurant que les itinéraires sont suivis et que les retards sont minimisés, et de mieux communiquer avec les utilisateurs sur les temps de trajet et les heures d'arrivée. 
+Au niveau de la communication client, mise en place d'un chat en ligne, d'un numéro de téléphone dédié et d'une interface en ligne pour les commentaires et demandes de renseignements. En recueillant régulièrement les commentaires des utilisateurs sur différents aspects de la mobilité urbaine, les opérateurs peuvent continuer à améliorer leur service en fonction des besoins et des préférences des utilisateurs.
+
+  CONCLUSION
+
+Se déplacer en véhicule ou en transport en commun à Dakar, s’avère relever d’une épreuve de force tant les rues sont saturées. En matinée comme en soirée, mais surtout aux heures de pointe, les routes de la capitale sénégalaise sont embouteillées et asphyxiées. Les embouteillages à Dakar constituent une triste réalité. 
+Pourtant, l’impact de ces flots de circulation sur l’environnement devient de plus en plus considérable. Les bouchons coûtent par ailleurs des milliards de FCFA par an à la ville de Dakar. Il urge donc de développer rapidement des solutions efficaces pour lutter contre les embouteillages à Dakar.
