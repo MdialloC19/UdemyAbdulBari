@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CopyFIle",
+            "request": "launch",
+            "mainClass": "fichieropen.CopyFIle",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "Fichier",
+            "request": "launch",
+            "mainClass": "fichieropen.Fichier",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "LambdaDemo",
             "request": "launch",
             "mainClass": "lambda.LambdaDemo",
