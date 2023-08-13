@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PipedDemo",
+            "request": "launch",
+            "mainClass": "pipeddemo.PipedDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "BufferedDemo",
+            "request": "launch",
+            "mainClass": "buffereddemo.BufferedDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "ByteDemo",
+            "request": "launch",
+            "mainClass": "filemanipulation.ByteDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "CopyingFiles",
             "request": "launch",
             "mainClass": "filemanipulation.CopyingFiles",
