@@ -23,7 +23,12 @@ public class Fichier {
                 int i=0;
                 for(File nom:file.listFiles()){
                     System.out.print("\t\t"+ ((nom.isDirectory()) ? nom.getName()+"/":nom.getName()));
-
+                    // if(nom.isDirectory()){
+                    //      for(File nom1:nom.listFiles())
+                    //     System.out.print("\t\t"+ ((nom1.isDirectory()) ? nom1.getName()+"/":nom1.getName()));
+                    // }else{
+                    //     System.out.print("\t\t"+ ((nom.isDirectory()) ? nom.getName()+"/":nom.getName()));
+                    // }
                     if(i%4==0){
                         System.out.println();
                     }

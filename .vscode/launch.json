@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FileHandling",
+            "request": "launch",
+            "mainClass": "filehandling.FileHandling",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "RandomAcessDemo",
+            "request": "launch",
+            "mainClass": "randomacessdemo.RandomAcessDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "PipedDemo",
             "request": "launch",
             "mainClass": "pipeddemo.PipedDemo",
