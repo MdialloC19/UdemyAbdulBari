@@ -1,6 +1,9 @@
 package printstreamdemo;
 
+import java.io.BufferedReader;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.io.InputStreamReader;
 import java.io.PrintStream;
 
 class Student{
@@ -27,6 +30,16 @@ public class PrintStreamDemo {
 
         ps.close();
         fos.close();
+    
+        FileInputStream fis=new FileInputStream("./printstreamdemo/test.txt");
+        BufferedReader br=new BufferedReader(new InputStreamReader(fis));
+
+        Student s=new Student();
+        s.rollno=Integer.parseInt(br.readLine());
+        s.name=br.readLine();
+        s.dept=br.readLine();
+    
+        System.out.println("rollno: "+s.rollno+ " name: "+ s.name +" dept: "+ s.dept);
     }
 
     

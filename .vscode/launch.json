@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DataStreamDemo",
+            "request": "launch",
+            "mainClass": "printstreamdemo.DataStreamDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "PrintStreamDemo",
             "request": "launch",
             "mainClass": "printstreamdemo.PrintStreamDemo",
