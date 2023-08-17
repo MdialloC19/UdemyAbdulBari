@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "socketdemo.Client",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "ReverseEcho",
+            "request": "launch",
+            "mainClass": "socketdemo.ReverseEcho",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "DateFormatDemo",
             "request": "launch",
             "mainClass": "datedemo.DateFormatDemo",
