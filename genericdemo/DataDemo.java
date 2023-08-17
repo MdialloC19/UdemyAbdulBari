@@ -11,6 +11,10 @@ class Data<T>{
         return obj;
     }
 }
+
+class A{}
+interface B{}
+interface C{}
 @SuppressWarnings("unchecked")
 
 class MyArray<T>{
@@ -31,25 +35,36 @@ class MyArray<T>{
 }
 
 class MyArray2 extends MyArray<String>{
-    
+
 }
 public class DataDemo {
 
+    static <E> void show (E... list){
+
+        for (E x:list){
+            System.out.println(x);
+        }
+    }
+
+    static void fun(MyArray<? extends Number> obj){
+        obj.display();
+    }
     public static void main(String[] args) {
         Data<Integer> d=new Data<>();
 
         d.setData(Integer.valueOf(15));
         System.out.println(d.getData());
 
-        MyArray <Integer> M1=new MyArray<>();
+        MyArray <Integer> ma1=new MyArray<>();
 
-        M1.append(10);
-        M1.append(20);
-        M1.append(40);
-        M1.append(50);
-        M1.append(60);
+        ma1.append(10);
+        ma1.append(20);
+        ma1.append(40);
+        ma1.append(50);
+        ma1.append(60); 
+        ma1.display();
 
-        M1.display();
+        fun(ma1);
     }
     
 }

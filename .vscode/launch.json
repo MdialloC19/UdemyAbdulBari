@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DateFormatDemo",
+            "request": "launch",
+            "mainClass": "datedemo.DateFormatDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "DateLocalDemo",
+            "request": "launch",
+            "mainClass": "datedemo.DateLocalDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "dateDemons",
+            "request": "launch",
+            "mainClass": "datedemo.dateDemons",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "DateDemo",
+            "request": "launch",
+            "mainClass": "datedemo.DateDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
+            "name": "GenericDemo",
+            "request": "launch",
+            "mainClass": "genericdemo.GenericDemo",
+            "projectName": "UdemyAbdulBari_1593c99"
+        },
+        {
+            "type": "java",
             "name": "DataDemo",
             "request": "launch",
             "mainClass": "genericdemo.DataDemo",
