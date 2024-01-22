@@ -1,798 +1,826 @@
 {
-    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
-    // Pointez pour afficher la description des attributs existants.
-    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Client",
-            "request": "launch",
-            "mainClass": "socketdemo.Client",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ReverseEcho",
-            "request": "launch",
-            "mainClass": "socketdemo.ReverseEcho",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "DateFormatDemo",
-            "request": "launch",
-            "mainClass": "datedemo.DateFormatDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "DateLocalDemo",
-            "request": "launch",
-            "mainClass": "datedemo.DateLocalDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "dateDemons",
-            "request": "launch",
-            "mainClass": "datedemo.dateDemons",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "DateDemo",
-            "request": "launch",
-            "mainClass": "datedemo.DateDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "GenericDemo",
-            "request": "launch",
-            "mainClass": "genericdemo.GenericDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "DataDemo",
-            "request": "launch",
-            "mainClass": "genericdemo.DataDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "MyWrite",
-            "request": "launch",
-            "mainClass": "serialization.MyWrite",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "DataStreamDemo",
-            "request": "launch",
-            "mainClass": "printstreamdemo.DataStreamDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "PrintStreamDemo",
-            "request": "launch",
-            "mainClass": "printstreamdemo.PrintStreamDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "FileHandling",
-            "request": "launch",
-            "mainClass": "filehandling.FileHandling",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "RandomAcessDemo",
-            "request": "launch",
-            "mainClass": "randomacessdemo.RandomAcessDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "PipedDemo",
-            "request": "launch",
-            "mainClass": "pipeddemo.PipedDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "BufferedDemo",
-            "request": "launch",
-            "mainClass": "buffereddemo.BufferedDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ByteDemo",
-            "request": "launch",
-            "mainClass": "filemanipulation.ByteDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "CopyingFiles",
-            "request": "launch",
-            "mainClass": "filemanipulation.CopyingFiles",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "FileExample",
-            "request": "launch",
-            "mainClass": "filemanipulation.FileExample",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "TestFIlter",
-            "request": "launch",
-            "mainClass": "fichieropen.TestFIlter",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "CopyFIle",
-            "request": "launch",
-            "mainClass": "fichieropen.CopyFIle",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Fichier",
-            "request": "launch",
-            "mainClass": "fichieropen.Fichier",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "LambdaDemo",
-            "request": "launch",
-            "mainClass": "lambda.LambdaDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Lambda",
-            "request": "launch",
-            "mainClass": "lambda.Lambda",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "AnnoDemo",
-            "request": "launch",
-            "mainClass": "annodemo.AnnoDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ReflectDemo",
-            "request": "launch",
-            "mainClass": "reflectiondemo.ReflectDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "EnumDemo",
-            "request": "launch",
-            "mainClass": "enumdemo.EnumDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "WrapperDemo",
-            "request": "launch",
-            "mainClass": "langdemo.wrapperdemo.WrapperDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "LangDemo",
-            "request": "launch",
-            "mainClass": "langdemo.LangDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "Monitor.challenge.Test",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "Monitor.prodcons.Test",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "Monitor.atm.Main",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "Monitor.Test",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "TestThread",
-            "request": "launch",
-            "mainClass": "coursenligne.TestThread",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "CalculSuite",
-            "request": "launch",
-            "mainClass": "patternforkjoin.CalculSuite",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "patternforkjoin.Main",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "threadopen.Test",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "threadopen.Main",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ThreadClassDemo",
-            "request": "launch",
-            "mainClass": "tutorialpoint.ThreadClassDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ThreadTest2",
-            "request": "launch",
-            "mainClass": "threadtest.ThreadTest2",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ThreadTest1",
-            "request": "launch",
-            "mainClass": "threadtest.ThreadTest1",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "JeuBulle",
-            "request": "launch",
-            "mainClass": "JeuBulle",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ThreadTest",
-            "request": "launch",
-            "mainClass": "threadtest.ThreadTest",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "exceptionchallenge.Test",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "collection.Test",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "RessourceDemo",
-            "request": "launch",
-            "mainClass": "ressourceDemo.RessourceDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Finalydemo",
-            "request": "launch",
-            "mainClass": "finallydemo.Finalydemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ThrowThrowsDemo",
-            "request": "launch",
-            "mainClass": "throwthrowsdemo.ThrowThrowsDemo",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "checkedunchecked",
-            "request": "launch",
-            "mainClass": "checkedunchecked.checkedunchecked",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "NestedCatch",
-            "request": "launch",
-            "mainClass": "nestedcatach.NestedCatch",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "TestException",
-            "request": "launch",
-            "mainClass": "exceptiondemo.TestException",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "TestException",
-            "request": "launch",
-            "mainClass": "exception.TestException",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "TestFraction",
-            "request": "launch",
-            "mainClass": "Fraction.TestFraction",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "open.Test",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StudentRoll",
-            "request": "launch",
-            "mainClass": "student.StudentRoll",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StaticBlocks",
-            "request": "launch",
-            "mainClass": "staticpractice1.StaticBlocks",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "AddingMatrices",
-            "request": "launch",
-            "mainClass": "AddingMatrices",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Area",
-            "request": "launch",
-            "mainClass": "Area",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Area1",
-            "request": "launch",
-            "mainClass": "Area1",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Arithmetic",
-            "request": "launch",
-            "mainClass": "Arithmetic",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Array",
-            "request": "launch",
-            "mainClass": "Array",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ArrayPractice",
-            "request": "launch",
-            "mainClass": "ArrayPractice",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ArrayPractice1",
-            "request": "launch",
-            "mainClass": "ArrayPractice1",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ArrayPractice2",
-            "request": "launch",
-            "mainClass": "ArrayPractice2",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Bitewise",
-            "request": "launch",
-            "mainClass": "Bitewise",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ChalengePatterns1",
-            "request": "launch",
-            "mainClass": "ChalengePatterns1",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ChallengePattern2",
-            "request": "launch",
-            "mainClass": "ChallengePattern2",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "ChallengePattern3",
-            "request": "launch",
-            "mainClass": "ChallengePattern3",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Circle1",
-            "request": "launch",
-            "mainClass": "Circle1",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "DArray",
-            "request": "launch",
-            "mainClass": "DArray",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "DataSizeRange",
-            "request": "launch",
-            "mainClass": "DataSizeRange",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "DataTypeDetails",
-            "request": "launch",
-            "mainClass": "DataTypeDetails",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "DynamicDispatch",
-            "request": "launch",
-            "mainClass": "DynamicDispatch",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Formatted",
-            "request": "launch",
-            "mainClass": "Formatted",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "InheritConst",
-            "request": "launch",
-            "mainClass": "InheritConst",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "KeyRead",
-            "request": "launch",
-            "mainClass": "KeyRead",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Literals",
-            "request": "launch",
-            "mainClass": "Literals",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "MethodPratice",
-            "request": "launch",
-            "mainClass": "MethodPratice",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "MethodPratice1",
-            "request": "launch",
-            "mainClass": "MethodPratice1",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "MyFirst",
-            "request": "launch",
-            "mainClass": "MyFirst",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Overloading",
-            "request": "launch",
-            "mainClass": "Overloading",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "OverrideRules",
-            "request": "launch",
-            "mainClass": "OverrideRules",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Overriding",
-            "request": "launch",
-            "mainClass": "Overriding",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "OverridingExample",
-            "request": "launch",
-            "mainClass": "OverridingExample",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Pattern",
-            "request": "launch",
-            "mainClass": "Pattern",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "PrimeNumber",
-            "request": "launch",
-            "mainClass": "PrimeNumber",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Printing",
-            "request": "launch",
-            "mainClass": "Printing",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "RectangleTest",
-            "request": "launch",
-            "mainClass": "RectangleTest",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Recursion",
-            "request": "launch",
-            "mainClass": "Recursion",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "RemoveDuplicateItems",
-            "request": "launch",
-            "mainClass": "RemoveDuplicateItems",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Roots",
-            "request": "launch",
-            "mainClass": "Roots",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "SCSwitch2",
-            "request": "launch",
-            "mainClass": "SCSwitch2",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "SortingArray",
-            "request": "launch",
-            "mainClass": "SortingArray",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StringChallenge",
-            "request": "launch",
-            "mainClass": "StringChallenge",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StringChallenge1",
-            "request": "launch",
-            "mainClass": "StringChallenge1",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StringChallenge2",
-            "request": "launch",
-            "mainClass": "StringChallenge2",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StringMethods",
-            "request": "launch",
-            "mainClass": "StringMethods",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StringPattern",
-            "request": "launch",
-            "mainClass": "StringPattern",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StringPractice",
-            "request": "launch",
-            "mainClass": "StringPractice",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StringRegexb",
-            "request": "launch",
-            "mainClass": "StringRegexb",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StudentTest",
-            "request": "launch",
-            "mainClass": "StudentTest",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Students",
-            "request": "launch",
-            "mainClass": "Students",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Systeme",
-            "request": "launch",
-            "mainClass": "Systeme",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "VariableArguments",
-            "request": "launch",
-            "mainClass": "VariableArguments",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Website",
-            "request": "launch",
-            "mainClass": "Website",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "Abstract",
-            "request": "launch",
-            "mainClass": "abstract1.Abstract",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "AbstractExample",
-            "request": "launch",
-            "mainClass": "abstractexample.AbstractExample",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "CallbackChallenge",
-            "request": "launch",
-            "mainClass": "callbackchallenge.CallbackChallenge",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "InterfaceExample",
-            "request": "launch",
-            "mainClass": "interfaceexample.InterfaceExample",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "InterfacePractice",
-            "request": "launch",
-            "mainClass": "interfacepractice.InterfacePractice",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "LocalInner",
-            "request": "launch",
-            "mainClass": "localinner.LocalInner",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "NestedInner",
-            "request": "launch",
-            "mainClass": "nestedinner.NestedInner",
-            "projectName": "UdemyAbdulBari_1593c99"
-        },
-        {
-            "type": "java",
-            "name": "StaticPractice",
-            "request": "launch",
-            "mainClass": "staticpackage.StaticPractice",
-            "projectName": "UdemyAbdulBari_1593c99"
-        }
-    ]
+  // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+  // Pointez pour afficher la description des attributs existants.
+  // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Table",
+      "request": "launch",
+      "mainClass": "Table",
+      "projectName": "UdemyAbdulBari_47e15e4e"
+    },
+    {
+      "type": "java",
+      "name": "JeuBulle",
+      "request": "launch",
+      "mainClass": "JeuBulle",
+      "projectName": "UdemyAbdulBari_47e15e4e"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "patternforkjoin.Main",
+      "projectName": "UdemyAbdulBari_47e15e4e"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "exceptionchallenge.Test",
+      "projectName": "UdemyAbdulBari_47e15e4e"
+    },
+    {
+      "type": "java",
+      "name": "Client",
+      "request": "launch",
+      "mainClass": "socketdemo.Client",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ReverseEcho",
+      "request": "launch",
+      "mainClass": "socketdemo.ReverseEcho",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "DateFormatDemo",
+      "request": "launch",
+      "mainClass": "datedemo.DateFormatDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "DateLocalDemo",
+      "request": "launch",
+      "mainClass": "datedemo.DateLocalDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "dateDemons",
+      "request": "launch",
+      "mainClass": "datedemo.dateDemons",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "DateDemo",
+      "request": "launch",
+      "mainClass": "datedemo.DateDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "GenericDemo",
+      "request": "launch",
+      "mainClass": "genericdemo.GenericDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "DataDemo",
+      "request": "launch",
+      "mainClass": "genericdemo.DataDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "MyWrite",
+      "request": "launch",
+      "mainClass": "serialization.MyWrite",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "DataStreamDemo",
+      "request": "launch",
+      "mainClass": "printstreamdemo.DataStreamDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "PrintStreamDemo",
+      "request": "launch",
+      "mainClass": "printstreamdemo.PrintStreamDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "FileHandling",
+      "request": "launch",
+      "mainClass": "filehandling.FileHandling",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "RandomAcessDemo",
+      "request": "launch",
+      "mainClass": "randomacessdemo.RandomAcessDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "PipedDemo",
+      "request": "launch",
+      "mainClass": "pipeddemo.PipedDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "BufferedDemo",
+      "request": "launch",
+      "mainClass": "buffereddemo.BufferedDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ByteDemo",
+      "request": "launch",
+      "mainClass": "filemanipulation.ByteDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "CopyingFiles",
+      "request": "launch",
+      "mainClass": "filemanipulation.CopyingFiles",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "FileExample",
+      "request": "launch",
+      "mainClass": "filemanipulation.FileExample",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "TestFIlter",
+      "request": "launch",
+      "mainClass": "fichieropen.TestFIlter",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "CopyFIle",
+      "request": "launch",
+      "mainClass": "fichieropen.CopyFIle",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Fichier",
+      "request": "launch",
+      "mainClass": "fichieropen.Fichier",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "LambdaDemo",
+      "request": "launch",
+      "mainClass": "lambda.LambdaDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Lambda",
+      "request": "launch",
+      "mainClass": "lambda.Lambda",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "AnnoDemo",
+      "request": "launch",
+      "mainClass": "annodemo.AnnoDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ReflectDemo",
+      "request": "launch",
+      "mainClass": "reflectiondemo.ReflectDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "EnumDemo",
+      "request": "launch",
+      "mainClass": "enumdemo.EnumDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "WrapperDemo",
+      "request": "launch",
+      "mainClass": "langdemo.wrapperdemo.WrapperDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "LangDemo",
+      "request": "launch",
+      "mainClass": "langdemo.LangDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Monitor.challenge.Test",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Monitor.prodcons.Test",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Monitor.atm.Main",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Monitor.Test",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "TestThread",
+      "request": "launch",
+      "mainClass": "coursenligne.TestThread",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "CalculSuite",
+      "request": "launch",
+      "mainClass": "patternforkjoin.CalculSuite",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "patternforkjoin.Main",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "threadopen.Test",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "threadopen.Main",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ThreadClassDemo",
+      "request": "launch",
+      "mainClass": "tutorialpoint.ThreadClassDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ThreadTest2",
+      "request": "launch",
+      "mainClass": "threadtest.ThreadTest2",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ThreadTest1",
+      "request": "launch",
+      "mainClass": "threadtest.ThreadTest1",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "JeuBulle",
+      "request": "launch",
+      "mainClass": "JeuBulle",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ThreadTest",
+      "request": "launch",
+      "mainClass": "threadtest.ThreadTest",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "exceptionchallenge.Test",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "collection.Test",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "RessourceDemo",
+      "request": "launch",
+      "mainClass": "ressourceDemo.RessourceDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Finalydemo",
+      "request": "launch",
+      "mainClass": "finallydemo.Finalydemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ThrowThrowsDemo",
+      "request": "launch",
+      "mainClass": "throwthrowsdemo.ThrowThrowsDemo",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "checkedunchecked",
+      "request": "launch",
+      "mainClass": "checkedunchecked.checkedunchecked",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "NestedCatch",
+      "request": "launch",
+      "mainClass": "nestedcatach.NestedCatch",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "TestException",
+      "request": "launch",
+      "mainClass": "exceptiondemo.TestException",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "TestException",
+      "request": "launch",
+      "mainClass": "exception.TestException",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "TestFraction",
+      "request": "launch",
+      "mainClass": "Fraction.TestFraction",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "open.Test",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StudentRoll",
+      "request": "launch",
+      "mainClass": "student.StudentRoll",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StaticBlocks",
+      "request": "launch",
+      "mainClass": "staticpractice1.StaticBlocks",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AddingMatrices",
+      "request": "launch",
+      "mainClass": "AddingMatrices",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Area",
+      "request": "launch",
+      "mainClass": "Area",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Area1",
+      "request": "launch",
+      "mainClass": "Area1",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Arithmetic",
+      "request": "launch",
+      "mainClass": "Arithmetic",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ArrayPractice",
+      "request": "launch",
+      "mainClass": "ArrayPractice",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ArrayPractice1",
+      "request": "launch",
+      "mainClass": "ArrayPractice1",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ArrayPractice2",
+      "request": "launch",
+      "mainClass": "ArrayPractice2",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Bitewise",
+      "request": "launch",
+      "mainClass": "Bitewise",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ChalengePatterns1",
+      "request": "launch",
+      "mainClass": "ChalengePatterns1",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ChallengePattern2",
+      "request": "launch",
+      "mainClass": "ChallengePattern2",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ChallengePattern3",
+      "request": "launch",
+      "mainClass": "ChallengePattern3",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Circle1",
+      "request": "launch",
+      "mainClass": "Circle1",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "DArray",
+      "request": "launch",
+      "mainClass": "DArray",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "DataSizeRange",
+      "request": "launch",
+      "mainClass": "DataSizeRange",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "DataTypeDetails",
+      "request": "launch",
+      "mainClass": "DataTypeDetails",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "DynamicDispatch",
+      "request": "launch",
+      "mainClass": "DynamicDispatch",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Formatted",
+      "request": "launch",
+      "mainClass": "Formatted",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "InheritConst",
+      "request": "launch",
+      "mainClass": "InheritConst",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "KeyRead",
+      "request": "launch",
+      "mainClass": "KeyRead",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Literals",
+      "request": "launch",
+      "mainClass": "Literals",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "MethodPratice",
+      "request": "launch",
+      "mainClass": "MethodPratice",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "MethodPratice1",
+      "request": "launch",
+      "mainClass": "MethodPratice1",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "MyFirst",
+      "request": "launch",
+      "mainClass": "MyFirst",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Overloading",
+      "request": "launch",
+      "mainClass": "Overloading",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "OverrideRules",
+      "request": "launch",
+      "mainClass": "OverrideRules",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Overriding",
+      "request": "launch",
+      "mainClass": "Overriding",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "OverridingExample",
+      "request": "launch",
+      "mainClass": "OverridingExample",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Pattern",
+      "request": "launch",
+      "mainClass": "Pattern",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNumber",
+      "request": "launch",
+      "mainClass": "PrimeNumber",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Printing",
+      "request": "launch",
+      "mainClass": "Printing",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "RectangleTest",
+      "request": "launch",
+      "mainClass": "RectangleTest",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Recursion",
+      "request": "launch",
+      "mainClass": "Recursion",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDuplicateItems",
+      "request": "launch",
+      "mainClass": "RemoveDuplicateItems",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Roots",
+      "request": "launch",
+      "mainClass": "Roots",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "SCSwitch2",
+      "request": "launch",
+      "mainClass": "SCSwitch2",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "SortingArray",
+      "request": "launch",
+      "mainClass": "SortingArray",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StringChallenge",
+      "request": "launch",
+      "mainClass": "StringChallenge",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StringChallenge1",
+      "request": "launch",
+      "mainClass": "StringChallenge1",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StringChallenge2",
+      "request": "launch",
+      "mainClass": "StringChallenge2",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StringMethods",
+      "request": "launch",
+      "mainClass": "StringMethods",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StringPattern",
+      "request": "launch",
+      "mainClass": "StringPattern",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StringPractice",
+      "request": "launch",
+      "mainClass": "StringPractice",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StringRegexb",
+      "request": "launch",
+      "mainClass": "StringRegexb",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StudentTest",
+      "request": "launch",
+      "mainClass": "StudentTest",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Students",
+      "request": "launch",
+      "mainClass": "Students",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Systeme",
+      "request": "launch",
+      "mainClass": "Systeme",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "VariableArguments",
+      "request": "launch",
+      "mainClass": "VariableArguments",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Website",
+      "request": "launch",
+      "mainClass": "Website",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Abstract",
+      "request": "launch",
+      "mainClass": "abstract1.Abstract",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "AbstractExample",
+      "request": "launch",
+      "mainClass": "abstractexample.AbstractExample",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "CallbackChallenge",
+      "request": "launch",
+      "mainClass": "callbackchallenge.CallbackChallenge",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceExample",
+      "request": "launch",
+      "mainClass": "interfaceexample.InterfaceExample",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "InterfacePractice",
+      "request": "launch",
+      "mainClass": "interfacepractice.InterfacePractice",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "LocalInner",
+      "request": "launch",
+      "mainClass": "localinner.LocalInner",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "NestedInner",
+      "request": "launch",
+      "mainClass": "nestedinner.NestedInner",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "StaticPractice",
+      "request": "launch",
+      "mainClass": "staticpackage.StaticPractice",
+      "projectName": "UdemyAbdulBari_1593c99"
+    }
+  ]
 }
