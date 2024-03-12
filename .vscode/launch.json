@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RechercheMat",
+      "request": "launch",
+      "mainClass": "recursion.RechercheMat",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "RechercheBinaire",
+      "request": "launch",
+      "mainClass": "recursion.RechercheBinaire",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "RechercheDico",
+      "request": "launch",
+      "mainClass": "recursion.RechercheDico",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "RecurisionCroissante",
+      "request": "launch",
+      "mainClass": "recursion.RecurisionCroissante",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "recursion",
+      "request": "launch",
+      "mainClass": "recursion.recursion",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
       "name": "Table",
       "request": "launch",
       "mainClass": "Table",
