@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Arbre",
+      "request": "launch",
+      "mainClass": "recursion.tree.Arbre",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ArbreBinaire1",
+      "request": "launch",
+      "mainClass": "recursion.tree.ArbreBinaire1",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "RecusiveTab",
+      "request": "launch",
+      "mainClass": "recursion.RecusiveTab",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "ArbreBinaire",
+      "request": "launch",
+      "mainClass": "recursion.tree.ArbreBinaire",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "File",
+      "request": "launch",
+      "mainClass": "recursion.tree.File",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
+      "name": "Pile",
+      "request": "launch",
+      "mainClass": "recursion.tree.Pile",
+      "projectName": "UdemyAbdulBari_1593c99"
+    },
+    {
+      "type": "java",
       "name": "RechercheMat",
       "request": "launch",
       "mainClass": "recursion.RechercheMat",
